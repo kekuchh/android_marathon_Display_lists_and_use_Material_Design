@@ -6,3 +6,5 @@
 
 ![image](https://github.com/kekuchh/android_marathon_Display_lists_and_use_Material_Design/assets/98802601/4cf74ed4-6de5-4dbc-a1fc-1508e577d07b)
 
+![image](https://github.com/kekuchh/android_marathon_Display_lists_and_use_Material_Design/assets/98802601/63c75bf3-082b-4c30-8af0-aa28b67d058c)
+
