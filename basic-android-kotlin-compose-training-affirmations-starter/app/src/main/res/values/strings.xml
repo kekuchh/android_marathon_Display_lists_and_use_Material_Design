@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art</string>
+
+    <string name="art_content_description">Art image</string>
+    <string name="previous_button">previous</string>
+    <string name="next_button">next</string>
+
+    <string name="Kandinskii">Василий Кандинский</string>
+    <string name="Malevich">Казимир Малевич</string>
+
+    <string name="painting_title_1">Композиция VIII</string>
+    <string name="painting_title_2">Москва I</string>
+    <string name="painting_title_3">Импровизация 34</string>
+    <string name="painting_title_4">Спортсмены</string>
+    <string name="painting_title_5">Живописный реализм крестьянки в двух измерениях</string>
+
+    <string name="painting_year_1">1923</string>
+    <string name="painting_year_2">1916</string>
+    <string name="painting_year_3">1913</string>
+    <string name="painting_year_4">1928–1932</string>
+    <string name="painting_year_5">1915</string>
+</resources>
